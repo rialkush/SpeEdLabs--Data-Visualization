@@ -6,7 +6,7 @@ from datetime import datetime
 # contains functions to do processing for visualization
 from companion import *
 # contains functions to plot visulizations related to videos, question, ksc, affiliation-engagement & session
-from funcs2 import *
+from visuals import *
 
 # dimensions of page
 WIDTH = 210
